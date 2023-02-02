@@ -14,3 +14,7 @@ Some projects about python
 ## 3. 变位词分组
 - 中文 : 变位词是通过重新排列另一个单词的字母而形成的单词。例如，car 和 arc，cat 和 act 等。对变位词进行分组是编码面试中的热门问题之一。
 - English : Anagrams are words formed by rearranging the letters of another word, For example, car and arc, cat and act, etc. Grouping anagrams is one of the popular questions in coding interviews. 
+
+## 4. 创建二维码
+- 中文 : 二维码有多种用途；从创建支付网关到向您展示餐厅的食物菜单，二维码被用于多种用途。在过去的几年中，一些仅基于为企业创建 QR 码的公司已经多如牛毛。因此，如果您知道如何创建 QR 码，它将在很多方面对您有所帮助。
+- English ： QR codes have a variety of uses; from creating a payment gateway to showing you the food menu of a restaurant, a QR code is being used in several ways. Over the past five years, several businesses have started that are only based on creating QR codes for a business. So if you know how to create a QR code, it will be helpful for you in many ways.
