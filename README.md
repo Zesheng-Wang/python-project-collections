@@ -18,3 +18,8 @@ Some projects about python
 ## 4. 创建二维码
 - 中文 : 二维码有多种用途；从创建支付网关到向您展示餐厅的食物菜单，二维码被用于多种用途。在过去的几年中，一些仅基于为企业创建 QR 码的公司已经多如牛毛。因此，如果您知道如何创建 QR 码，它将在很多方面对您有所帮助。
 - English ： QR codes have a variety of uses; from creating a payment gateway to showing you the food menu of a restaurant, a QR code is being used in several ways. Over the past five years, several businesses have started that are only based on creating QR codes for a business. So if you know how to create a QR code, it will be helpful for you in many ways.
+
+
+## 5. 使用Python人脸检测
+- 中文 : 我将向您展示如何使用 Python 创建一个简单的人脸检测器。构建一个检测人脸的程序是开始机器学习计算机视觉任务的好方法。因此，我将在这里向您介绍一种使用 Python 进行人脸检测的非常简单的方法。
+- English ：I will show you how to create a simple face detector using Python. Building a program that detects faces is a great way to get started with machine learning computer vision tasks. So I will introduce you here a very easy way of face detection with Python.
